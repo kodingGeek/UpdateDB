@@ -1,2 +1,2 @@
-INSERT INTO institute (name, location) VALUES ('Institute C', 'Location C');
-INSERT INTO institute (name, location) VALUES ('Institute D', 'Location D');
+INSERT INTO institute (name, location) VALUES ('Institute F', 'Location G');
+INSERT INTO institute (name, location) VALUES ('Institute G', 'Location G');
